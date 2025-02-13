@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(255, 0, 106);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 32px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-size: 24;
+    font-weight: bold;
+}
